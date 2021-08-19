@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 5960224,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "公司债权方，如债券持有者或银行，对公司事务没有表决权。所以股东A投票权比例为其持有的权益资本占公司总权益资本的比例，即30/50×100%=60%&nbsp;",
+      "content": "某公司的总资本100万元，其中债权资本和权益资本分别为50万元，公司股东A持有20万元的债券资本和30万元的权益资本，则股东A投票权比例通常为（ ）。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "某公司的总资本100万元，其中债权资本和权益资本分别为50万元，公司股东A持有20万元的债券资本和30万元的权益资本，则股东A投票权比例通常为（ ）。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1906468,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "50",
+      "expanddoExamNum": 1013,
+      "favNum": 0,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5960224,
+        "lastDate": 1624113170,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 1013,
+        "examFavNum": 0,
+        "examRightNum": 516,
+        "examErrorNum": 497,
+        "maxWrongAnswer": "",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "100%",
+        "50%",
+        "60%",
+        "30%"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "259f8b1329343b1b41939f11974d7995",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 69144,
+          "knowLedgeName": "各类资本的比较",
+          "chapterName": "第1节",
+          "parentChapterName": "第7章",
+          "yaoQiu": 1,
+          "yaoQiuName": "熟悉",
+          "yaoQiuLevel": 2,
+          "pageNum": "P219-P220"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5960224,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2021,
+      "source": "2021年6月基金从业考试《证券投资基金基础知识》真题（考生回忆版）",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "259f8b1329343b1b41939f11974d7995",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

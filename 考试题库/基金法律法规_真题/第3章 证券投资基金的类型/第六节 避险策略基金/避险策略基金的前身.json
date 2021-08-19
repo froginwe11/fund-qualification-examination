@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4708636,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "\nCPPI是一种通过比较投资组合现时净值与投资组合价值底线，从而动态调整投资组合中风险资产与保本资产的比例，以兼顾保本与增值目标的保本策略。<br />\n",
+      "content": "\nCPPI是一种通过比较投资组合现时净值与投资组合价值底线，从而动态调整投资组合中( )与保本资产的比例，以兼顾保本与增值目标的保本策略。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "\nCPPI是一种通过比较投资组合现时净值与投资组合价值底线，从而动态调整投资组合中( )与保本资产的比例，以兼顾保本与增值目标的保本策略。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1799695,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 3,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "65",
+      "expanddoExamNum": 4329,
+      "favNum": 29,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4708636,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 4329,
+        "examFavNum": 29,
+        "examRightNum": 2823,
+        "examErrorNum": 1502,
+        "maxWrongAnswer": "C,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "现时总值",
+        "风险资产",
+        "投资组合价值平均线",
+        "保本收益"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "c84d07e356568dd7002143592f30383d",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57278,
+          "knowLedgeName": "避险策略基金的前身",
+          "chapterName": "第6节",
+          "parentChapterName": "第3章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P83-84"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4708636,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》真题汇编(二)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "c84d07e356568dd7002143592f30383d",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

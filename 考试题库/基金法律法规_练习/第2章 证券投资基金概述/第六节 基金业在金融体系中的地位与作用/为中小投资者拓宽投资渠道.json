@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4657917,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "基金业在金融体系中的作用包括：<br />\n1.为中小投资者拓宽了投资渠道；<br />\n2.优化金融结构，促进经济增长；<br />\n3.有利于证券市场的稳定和健康发展；<br />\n4.完善金融体系和社会保障体系；<br />\n5.推动责任投资，实现可持续发展。",
+      "content": "证券投资基金在资本市场上发挥着重要作用，证券投资基金的作用不包括(     )。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "证券投资基金在资本市场上发挥着重要作用，证券投资基金的作用不包括(     )。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1794355,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "94",
+      "expanddoExamNum": 9507,
+      "favNum": 4,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4657917,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 9507,
+        "examFavNum": 4,
+        "examRightNum": 9028,
+        "examErrorNum": 470,
+        "maxWrongAnswer": "A,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "拓宽了中小投资者的投资渠道",
+        "有利于证券市场的稳定发展",
+        "推动股票指数持续上升",
+        "优化金融结构,促进经济增长"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "81a4d2ddfad93bb59890cbaa8966788c",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57265,
+          "knowLedgeName": "为中小投资者拓宽投资渠道",
+          "chapterName": "第6节",
+          "parentChapterName": "第2章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P57-58"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4657917,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": false,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "81a4d2ddfad93bb59890cbaa8966788c",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": -1,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

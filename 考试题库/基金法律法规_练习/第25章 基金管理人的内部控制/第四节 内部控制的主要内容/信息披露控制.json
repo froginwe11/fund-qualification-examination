@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4888571,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "信息披露是基金管理人必须履行的一项义务。信息披露可能对证券市场价格和投资者行为产生重大影响，加强基金管理人信息披露的控制，是保证证券市场公开、公平和公正三原则的重要支持。Ⅰ、Ⅱ项说法正确<br />\n基金管理人应当加强对公司信息披露的检查和评价，对存在的问题及时提出改进办法，对信息披露出现的失误提出处理意见，并追究相关人员的责任。需要对掌握未公开信息的人员进行严格的行为控制，在信息公开披露前不得泄露其内容。Ⅲ、Ⅳ项说法正确",
+      "content": "下列关于基金管理人信息披露的说法，正确的是(       )。<br />\nⅠ．信息披露是基金管理人必须履行的义务<br />\nⅡ．信息披露可能对证券市场价格和投资者行为产生重大影响<br />\nⅢ．对信息披露出现失误的相关人员追究责任<br />\nⅣ．不得泄露未公开信息",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "下列关于基金管理人信息披露的说法，正确的是(       )。<br />\nⅠ．信息披露是基金管理人必须履行的义务<br />\nⅡ．信息披露可能对证券市场价格和投资者行为产生重大影响<br />\nⅢ．对信息披露出现失误的相关人员追究责任<br />\nⅣ．不得泄露未公开信息",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1812527,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "97",
+      "expanddoExamNum": 21552,
+      "favNum": 44,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4888571,
+        "lastDate": 1531759999,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 21552,
+        "examFavNum": 44,
+        "examRightNum": 21009,
+        "examErrorNum": 527,
+        "maxWrongAnswer": "C,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅰ",
+        "Ⅰ、Ⅱ",
+        "Ⅰ、Ⅱ、Ⅲ",
+        "Ⅰ、Ⅱ、Ⅲ、Ⅳ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "c535ed6523a94b89f4a21718b3b4acc3",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57377,
+          "knowLedgeName": "信息披露控制",
+          "chapterName": "第4节",
+          "parentChapterName": "第25章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P246"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4888571,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "c535ed6523a94b89f4a21718b3b4acc3",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

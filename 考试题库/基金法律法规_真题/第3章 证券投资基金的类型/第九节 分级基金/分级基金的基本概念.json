@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4708447,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "分级基金是指通过事先约定基金的风险收益分配，将母基金份额分为预期风险收益不同的子份额，并可将其中部分或全部类别份额上市交易的结构化证券投资基金。<br />",
+      "content": "通过事先约定基金的风险收益分配，将母基金份额分为预期风险收益不同的子份额，并可将其中部分或全部类别份额上市交易的结构化证券投资基金是( )。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "通过事先约定基金的风险收益分配，将母基金份额分为预期风险收益不同的子份额，并可将其中部分或全部类别份额上市交易的结构化证券投资基金是( )。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1799694,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 2,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "85",
+      "expanddoExamNum": 3558,
+      "favNum": 11,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4708447,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 3558,
+        "examFavNum": 11,
+        "examRightNum": 3046,
+        "examErrorNum": 510,
+        "maxWrongAnswer": "C,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "系列基金",
+        "分级基金",
+        "避险策略基金",
+        "上市开放式基金"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "c0cdd6a7e205fa7a0b57386f8b04c595",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59122,
+          "knowLedgeName": "分级基金的基本概念",
+          "chapterName": "第9节",
+          "parentChapterName": "第3章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P99"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4708447,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》真题汇编(一)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "c0cdd6a7e205fa7a0b57386f8b04c595",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

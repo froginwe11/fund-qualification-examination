@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4708721,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "\n合规审核的程序包括：制定合规审核机制、合规审核调查和合规审核评价。<br />\n",
+      "content": "\n下列哪一项不属于合规审核的程序?( )",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "\n下列哪一项不属于合规审核的程序?( )",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1799696,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        1
+      ],
+      "discussCount": 8,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "36",
+      "expanddoExamNum": 3667,
+      "favNum": 52,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4708721,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 3667,
+        "examFavNum": 52,
+        "examRightNum": 1347,
+        "examErrorNum": 2310,
+        "maxWrongAnswer": "A,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "制定合规审核机制",
+        "合规审核调查",
+        "合规审核评价",
+        "合规审核处理"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "a03e4d9aaf2aaee6af9e41ea966b07cc",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59215,
+          "knowLedgeName": "合规审核",
+          "chapterName": "第3节",
+          "parentChapterName": "第26章",
+          "yaoQiu": 3,
+          "yaoQiuName": "掌握",
+          "yaoQiuLevel": 3,
+          "pageNum": "P263-264"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4708721,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》真题汇编(三)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "a03e4d9aaf2aaee6af9e41ea966b07cc",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

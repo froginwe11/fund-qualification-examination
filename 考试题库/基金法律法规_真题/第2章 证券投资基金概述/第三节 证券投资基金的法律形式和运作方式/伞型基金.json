@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 3776705,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "C[解析]系列基金又称为伞型基金，是指多个基金共用一个基金合同，子基金独立运作，子基金之间可以进行相互转换的一种基金结构形式。从基金公司管理的角度看，采取伞型结构比单一结构具有优势，表现在以下两个方面：简化管理、降低成本；强大的扩张功能。",
+      "content": "伞型基金的优点不包括（&emsp;）。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "伞型基金的优点不包括（&emsp;）。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1741592,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": -959,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        3,
+        1,
+        10
+      ],
+      "discussCount": 21,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "66",
+      "expanddoExamNum": 7835,
+      "favNum": 230,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 3776705,
+        "lastDate": 1505381618,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 2,
+        "analysisNum": 0,
+        "examDoNum": 7835,
+        "examFavNum": 230,
+        "examRightNum": 5217,
+        "examErrorNum": 3048,
+        "maxWrongAnswer": "A,D",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "简化管理&nbsp;",
+        "降低成本&nbsp;",
+        "风险较小&nbsp;",
+        "强大的扩张功能&nbsp;"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "f15e4a3a1c885c5f717366d3c9a6bd78",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59121,
+          "knowLedgeName": "伞型基金",
+          "chapterName": "第3节",
+          "parentChapterName": "第2章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P41"
+        }
+      ],
+      "scoreRules": {
+        "examId": 3776705,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》 真题汇编(1)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "f15e4a3a1c885c5f717366d3c9a6bd78",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

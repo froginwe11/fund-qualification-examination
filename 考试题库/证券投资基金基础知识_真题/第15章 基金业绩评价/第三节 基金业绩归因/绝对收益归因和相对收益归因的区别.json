@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 5698843,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "（本题不考察选项顺序）基金业绩归因有多种方式。我们可以对基金的绝对收益进行归因，也可以对其相对于业绩比较基准的相对收益进行归因。绝对收益归因是考察各个因素对基金总收益的贡献，其本质是对基金总收益的分解。相对收益归因，则是通过分析基金与比较基准在资产配置、证券选择等方面的差异，来找出基金跑赢或跑输业绩比较基准的原因。&nbsp; &nbsp;",
+      "content": "根据基金的归因方式分类，相对于业绩比较基准进行分析的是(&emsp;&emsp;)，考查各个因素对基金总收益贡献的是(&emsp;&emsp;)<br />\n&emsp;I.绝对收益归因<br />\n&emsp;II.相对收益归因<br />\n&emsp;III.固定收益归因<br />\n&emsp;IV.浮动收益归因",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "根据基金的归因方式分类，相对于业绩比较基准进行分析的是(&emsp;&emsp;)，考查各个因素对基金总收益贡献的是(&emsp;&emsp;)<br />\n&emsp;I.绝对收益归因<br />\n&emsp;II.相对收益归因<br />\n&emsp;III.固定收益归因<br />\n&emsp;IV.浮动收益归因",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1884495,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 3,
+      "expandPercent": "58",
+      "expanddoExamNum": 12245,
+      "favNum": 0,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5698843,
+        "lastDate": 1604706207,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 12245,
+        "examFavNum": 0,
+        "examRightNum": 7193,
+        "examErrorNum": 5052,
+        "maxWrongAnswer": "",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "II、III",
+        "III、IV",
+        "I、II",
+        "II、Ⅳ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "45a586b7b5dcc5f2cf1d5df414ee72e3",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57513,
+          "knowLedgeName": "绝对收益归因和相对收益归因的区别",
+          "chapterName": "第3节",
+          "parentChapterName": "第15章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P464-P467"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5698843,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2020,
+      "source": "2020年基金从业资格考试《证券投资基金基础知识》真题汇编一",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "45a586b7b5dcc5f2cf1d5df414ee72e3",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

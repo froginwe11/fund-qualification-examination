@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 3776448,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "B[解析]基金客户售中服务是指客户在基金投资操作过程中享受的服务。主要包括：协助客户完成风险承受能力测试并细致解释测试结果；推介符合适用性原则的基金；介绍基金产品；协助客户办理开立账户、申购、赎回、资料变更等基金业务。&nbsp;<br />\n",
+      "content": "协助客户完成风险承受能力测试并细致解释测试结果属于（　）。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "协助客户完成风险承受能力测试并细致解释测试结果属于（　）。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1741593,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": -959,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        4,
+        3,
+        33
+      ],
+      "discussCount": 41,
+      "myDiscussCount": 0,
+      "errorCount": 1,
+      "expandPercent": "45",
+      "expanddoExamNum": 4972,
+      "favNum": 272,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 3776448,
+        "lastDate": 1503660586,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 4,
+        "analysisNum": 0,
+        "examDoNum": 4972,
+        "examFavNum": 272,
+        "examRightNum": 2270,
+        "examErrorNum": 3141,
+        "maxWrongAnswer": "A,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "基金客户售前服务&nbsp;",
+        "基金客户售中服务&nbsp;",
+        "基金客户售后服务&nbsp;",
+        "基金客户理财服务&nbsp;"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": null,
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "a79606085194cf9ff5346951dd2b5dfb",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59227,
+          "knowLedgeName": "基金客户服务的步骤",
+          "chapterName": "第1节",
+          "parentChapterName": "第23章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P194"
+        }
+      ],
+      "scoreRules": {
+        "examId": 3776448,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》真题汇编(2)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "a79606085194cf9ff5346951dd2b5dfb",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

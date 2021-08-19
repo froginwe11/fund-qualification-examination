@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4530772,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "比较两家公司的融资成本可知，甲公司在固定利率市场的借款利率比乙公司低，乙公司在浮动利率市场的借款利率比甲公司低，所以甲公司在固定利率市场上有比较优势，乙公司在浮动利率市场上具有比较优势。双方的互换方案是：甲公司在固定利率市场上以6%的利率融资，乙公司在浮动利率市场上以SHIBOR＋0.6%的利率融资，双方通过银行进行利率互换。<br />\n",
+      "content": "甲、乙两公司希望通过银行进行一笔利率互换，由于两公司信用等级不同，市场向它们提供的利率也不同，如下表所示：<br />\n<img width=\"860\" height=\"102\" src=\"http://wximg.233.com/attached/image/20170921/20170921203120_7505.jpg\" /><br />\nⅠ．甲公司在固定利率市场上以6%的利率融资<br />\nⅡ．甲公司在浮动利率市场上以SHIBOR＋0.7%的利率融资<br />\nⅢ．乙公司在固定利率市场上以7.5%的利率融资<br />\nⅣ．乙公司在浮动利率市场上以SHIBOR＋0.6%的利率融资<br />\n为了达到共同降低筹资成本的目的，双方的融资方案是（&emsp;&emsp;），然后再进行互换。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "甲、乙两公司希望通过银行进行一笔利率互换，由于两公司信用等级不同，市场向它们提供的利率也不同，如下表所示：<br />\n<img width=\"860\" height=\"102\" src=\"http://wximg.233.com/attached/image/20170921/20170921203120_7505.jpg\" /><br />\nⅠ．甲公司在固定利率市场上以6%的利率融资<br />\nⅡ．甲公司在浮动利率市场上以SHIBOR＋0.7%的利率融资<br />\nⅢ．乙公司在固定利率市场上以7.5%的利率融资<br />\nⅣ．乙公司在浮动利率市场上以SHIBOR＋0.6%的利率融资<br />\n为了达到共同降低筹资成本的目的，双方的融资方案是（&emsp;&emsp;），然后再进行互换。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1787815,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        7,
+        2,
+        1
+      ],
+      "discussCount": 5,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "78",
+      "expanddoExamNum": 4530,
+      "favNum": 113,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4530772,
+        "lastDate": 1520709337,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 4530,
+        "examFavNum": 113,
+        "examRightNum": 3577,
+        "examErrorNum": 940,
+        "maxWrongAnswer": "C,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅱ、Ⅳ",
+        "Ⅰ、Ⅳ",
+        "Ⅱ、Ⅲ",
+        "Ⅰ、Ⅲ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "6742dd087f04a0204090fdd5dfd4b058",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57443,
+          "knowLedgeName": "利率互换、货币互换、股票收益互换的基本形式",
+          "chapterName": "第4节",
+          "parentChapterName": "第9章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P315-P319"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4530772,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《证券投资基金基础知识》真题汇编（五）",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "6742dd087f04a0204090fdd5dfd4b058",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

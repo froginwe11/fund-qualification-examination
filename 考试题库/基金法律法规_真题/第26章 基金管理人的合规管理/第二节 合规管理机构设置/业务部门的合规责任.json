@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 5723813,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "基金管理人各自的业务部门设置存在差异，但是，各业务部门及其员工应当遵守合规规定。为保证公司在从事业务行为时能遵循较高的标准，基金管理人所有员工在从事业务活动时必须做到忠诚、诚实和公平交易，并以最高水准要求自己；公司及其员工应以应有的技能勤勉尽责和谨慎行事。",
+      "content": "基金管理人所有员工在从事业务时必须做到(&emsp;&emsp;)，并以最高水准要求自己。<br />\nI 忠诚<br />\nII 诚实<br />\nIII 公平交易<br />\nIV 自觉自愿",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "基金管理人所有员工在从事业务时必须做到(&emsp;&emsp;)，并以最高水准要求自己。<br />\nI 忠诚<br />\nII 诚实<br />\nIII 公平交易<br />\nIV 自觉自愿",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1885626,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "43",
+      "expanddoExamNum": 14538,
+      "favNum": 0,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5723813,
+        "lastDate": 1606748210,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 14538,
+        "examFavNum": 0,
+        "examRightNum": 6345,
+        "examErrorNum": 8193,
+        "maxWrongAnswer": "",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+        "Ⅱ、Ⅲ、Ⅳ",
+        "Ⅰ、Ⅱ、Ⅲ",
+        "Ⅰ、Ⅱ、Ⅳ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "8d8a3ae692d37c172c9756525d549743",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59104,
+          "knowLedgeName": "业务部门的合规责任",
+          "chapterName": "第2节",
+          "parentChapterName": "第26章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P259-260"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5723813,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2020,
+      "source": "2020年基金从业考试《基金法律法规》真题汇编",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "8d8a3ae692d37c172c9756525d549743",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

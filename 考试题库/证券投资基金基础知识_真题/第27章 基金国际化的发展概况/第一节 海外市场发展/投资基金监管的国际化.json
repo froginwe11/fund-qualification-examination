@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 3779194,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": " <br />\n欧盟金融市场的投资基金大体上可以分为两类：①是从事可转让证券集合投资计划业务的投资基金，即证券投资基金；②是所谓的另类投资基金，它是活跃在欧盟市场上的诸如对冲基金、不动产基金、私募股权和风险投资基金、商品基金、基础设施基金以及投资于这些基金的基金等各类型投资基金的合称。 <br />\n",
+      "content": " <br />\n下列属于从事可转让证券集合投资计划业务的投资基金的是（　　）。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": " <br />\n下列属于从事可转让证券集合投资计划业务的投资基金的是（　　）。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1741579,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": -959,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        2,
+        0,
+        24
+      ],
+      "discussCount": 19,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "76",
+      "expanddoExamNum": 6518,
+      "favNum": 297,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 3779194,
+        "lastDate": 1505484734,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 2,
+        "analysisNum": 0,
+        "examDoNum": 6518,
+        "examFavNum": 297,
+        "examRightNum": 4996,
+        "examErrorNum": 2011,
+        "maxWrongAnswer": "D,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "证券投资基金",
+        "对冲基金",
+        "不动产基金",
+        "私募股权和风险投资基金 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": null,
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "3c25980539637131284e617a82f82c2e",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59154,
+          "knowLedgeName": "投资基金监管的国际化",
+          "chapterName": "第1节",
+          "parentChapterName": "第27章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P275-P291"
+        }
+      ],
+      "scoreRules": {
+        "examId": 3779194,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《证券投资基金基础知识》真题汇编(三)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "3c25980539637131284e617a82f82c2e",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

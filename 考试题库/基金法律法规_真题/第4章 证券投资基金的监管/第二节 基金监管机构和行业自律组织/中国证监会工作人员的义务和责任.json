@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 5170325,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "中国证监会一般工作人员离职后2年内，不得到与原来工作业务直接相关的机构任职。",
+      "content": "中国证监会一般工作人员离职后(     )年内，不得到与原来工作业务直接相关的机构任职。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "中国证监会一般工作人员离职后(     )年内，不得到与原来工作业务直接相关的机构任职。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1838643,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        1,
+        6
+      ],
+      "discussCount": 29,
+      "myDiscussCount": 0,
+      "errorCount": 1,
+      "expandPercent": "47",
+      "expanddoExamNum": 27257,
+      "favNum": 87,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5170325,
+        "lastDate": 1558120833,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 1,
+        "analysisNum": 0,
+        "examDoNum": 27257,
+        "examFavNum": 87,
+        "examRightNum": 12925,
+        "examErrorNum": 14321,
+        "maxWrongAnswer": "C,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "5ea91307e6abb2e97879654ef3e99a49",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59109,
+          "knowLedgeName": "中国证监会工作人员的义务和责任",
+          "chapterName": "第2节",
+          "parentChapterName": "第4章",
+          "yaoQiu": 3,
+          "yaoQiuName": "掌握",
+          "yaoQiuLevel": 3,
+          "pageNum": "P122"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5170325,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2019,
+      "source": "2019年上半年基金从业《基金法律法规》真题汇编",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "5ea91307e6abb2e97879654ef3e99a49",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

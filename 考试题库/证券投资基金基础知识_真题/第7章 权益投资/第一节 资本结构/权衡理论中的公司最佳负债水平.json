@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4351550,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "\n<img src=\"http://wximg.233.com/attached/image/20170530/20170530113708_7198.jpg\" alt=\"\" /><br />\n<img src=\"http://wximg.233.com/attached/image/20170530/20170530113716_2590.jpg\" alt=\"\" /><br />\n",
+      "content": "\n（　　）同时考虑“税盾效应”和“破产成本”，认为最佳资本结构存在且应该是负债和所有者权益之间的一个均衡点。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "\n（　　）同时考虑“税盾效应”和“破产成本”，认为最佳资本结构存在且应该是负债和所有者权益之间的一个均衡点。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1772081,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        8
+      ],
+      "discussCount": 2,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "73",
+      "expanddoExamNum": 5736,
+      "favNum": 236,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4351550,
+        "lastDate": 1505409761,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 5736,
+        "examFavNum": 236,
+        "examRightNum": 4198,
+        "examErrorNum": 1851,
+        "maxWrongAnswer": "D,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "代理理论",
+        "权衡理论",
+        "无税MM理论",
+        "有税MM理论"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": null,
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "14db707ebcc52dd2b1d98745184fc591",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57780,
+          "knowLedgeName": "权衡理论中的公司最佳负债水平",
+          "chapterName": "第1节",
+          "parentChapterName": "第7章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P220-P221"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4351550,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2015,
+      "source": "2015年基金从业资格考试《证券投资基金基础知识》真题汇编（一）",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "14db707ebcc52dd2b1d98745184fc591",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

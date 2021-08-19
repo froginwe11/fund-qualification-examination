@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4708865,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": "\n基金监管目标是基金监管活动的出发点和价值归宿。<br />\n",
+      "content": "\n( )是基金监管活动的出发点和价值归宿。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "\n( )是基金监管活动的出发点和价值归宿。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1799696,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 4,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "76",
+      "expanddoExamNum": 5179,
+      "favNum": 38,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4708865,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 5179,
+        "examFavNum": 38,
+        "examRightNum": 3958,
+        "examErrorNum": 1209,
+        "maxWrongAnswer": "C,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "基金监管目标",
+        "基金监管体系",
+        "基金监管的原则",
+        "基金监管的内容"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "4990ec0d8dd532e2e6809e4db8d469db",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57284,
+          "knowLedgeName": "基金监管体系",
+          "chapterName": "第1节",
+          "parentChapterName": "第4章",
+          "yaoQiu": 3,
+          "yaoQiuName": "掌握",
+          "yaoQiuLevel": 3,
+          "pageNum": "P114-115"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4708865,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》真题汇编(三)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "4990ec0d8dd532e2e6809e4db8d469db",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}
