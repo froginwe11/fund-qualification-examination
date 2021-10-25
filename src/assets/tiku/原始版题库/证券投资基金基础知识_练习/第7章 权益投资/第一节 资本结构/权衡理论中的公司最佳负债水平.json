@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4661611,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "20世纪70年代，学术界提出对负债带来的收益与风险进行适当平衡来确定企业价值的权衡理论，认为随着企业债务增加而提高的经营风险和可能产生的破产成本，会增加企业的额外成本，而最佳的资本结构应当是负债和所有者权益之间的一个均衡点，这一均衡点D*就是最佳负债比率。",
+      "content": "（）同时考虑“税盾效应”和“破产成本”，认为最佳资本结构存在且应该是负债和所有者权益之间的一个均衡点。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "（）同时考虑“税盾效应”和“破产成本”，认为最佳资本结构存在且应该是负债和所有者权益之间的一个均衡点。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846059,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 6,
+      "myDiscussCount": 0,
+      "errorCount": 3,
+      "expandPercent": "75",
+      "expanddoExamNum": 28708,
+      "favNum": 1,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4661611,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 28708,
+        "examFavNum": 1,
+        "examRightNum": 21580,
+        "examErrorNum": 7127,
+        "maxWrongAnswer": "D,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "代理理论",
+        "权衡理论",
+        "无税MM理论",
+        "有税MM理论"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "19b2d76473c1d24d9deb199139d00380",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57780,
+          "knowLedgeName": "权衡理论中的公司最佳负债水平",
+          "chapterName": "第1节",
+          "parentChapterName": "第7章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P220-P221"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4661611,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "19b2d76473c1d24d9deb199139d00380",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

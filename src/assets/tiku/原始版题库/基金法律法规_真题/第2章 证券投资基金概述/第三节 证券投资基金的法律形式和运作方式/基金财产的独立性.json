@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 5723743,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "C项说法错误，基金管理人的固有资金和受托资金不得存放在同一证券账户。",
+      "content": "关于基金体现的信托法原理，以下表述错误的是(&emsp;&emsp;)。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "关于基金体现的信托法原理，以下表述错误的是(&emsp;&emsp;)。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1885626,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 1,
+      "expandPercent": "66",
+      "expanddoExamNum": 17543,
+      "favNum": 0,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5723743,
+        "lastDate": 1606748196,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 17543,
+        "examFavNum": 0,
+        "examRightNum": 11606,
+        "examErrorNum": 5937,
+        "maxWrongAnswer": "",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "基金财产独立于基金管理人，基金托管人的固有财产，体现了基金财产作为信托财产的独立性",
+        "基金管理人因基金财产的管理、运用而取得的财产和收益， 不属于基金管理人作为受托人的固有财产",
+        "基金管理人可在同一证券账户中同时管理固有资金和受托资金， 并区分独立账户分别估值核算登记",
+        "基金财产的债务由基金财产本身承担，基金份额持有人以其出资为限对基金财产的债务承担责任"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "dc7b3e234b9b71ae4289c4e162676416",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59272,
+          "knowLedgeName": "基金财产的独立性",
+          "chapterName": "第3节",
+          "parentChapterName": "第2章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P39"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5723743,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2020,
+      "source": "2020年基金从业考试《基金法律法规》真题汇编",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "dc7b3e234b9b71ae4289c4e162676416",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

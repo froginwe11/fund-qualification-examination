@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4716009,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "考虑风险调整的基金业绩评估方法有夏普比率、特雷诺比率、詹森a、信息比率与跟踪误差。<br/>",
+      "content": "下列不属于考虑风险调整的基金业绩评估指标的是（　　）。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "下列不属于考虑风险调整的基金业绩评估指标的是（　　）。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1800587,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        1
+      ],
+      "discussCount": 4,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "86",
+      "expanddoExamNum": 5570,
+      "favNum": 167,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4716009,
+        "lastDate": 1520528095,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 5570,
+        "examFavNum": 167,
+        "examRightNum": 4826,
+        "examErrorNum": 731,
+        "maxWrongAnswer": "A,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "詹森阿尔法",
+        "特雷诺比率",
+        "夏普比率",
+        "速动比率<br/>"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "c4d4a5d35b37ae5687499ca9248e877e",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59152,
+          "knowLedgeName": "基金业绩评价的基准组合",
+          "chapterName": "第2节",
+          "parentChapterName": "第15章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P463"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4716009,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2017,
+      "source": "2017年基金从业资格考试《证券投资基金基础知识》真题汇编（二）",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "c4d4a5d35b37ae5687499ca9248e877e",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4657449,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "业务操作手册是在基金管理人确定相关业务基础上，对业务的性质、种类以及相关的管理规定和操作流程及要求进行明确的说明，是业务人员上岗操作的指南。",
+      "content": "（        ）是业务人员上岗操作的指南。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "（        ）是业务人员上岗操作的指南。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1794352,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "89",
+      "expanddoExamNum": 4224,
+      "favNum": 6,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4657449,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 4224,
+        "examFavNum": 6,
+        "examRightNum": 3770,
+        "examErrorNum": 451,
+        "maxWrongAnswer": "D,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "部门业务规章",
+        "业务操作手册",
+        "基本管理制度",
+        "内部控制大纲"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "1144f4a74e09082be5d5f44f3c158ec9",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59230,
+          "knowLedgeName": "业务操作手册",
+          "chapterName": "第3节",
+          "parentChapterName": "第25章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P244"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4657449,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": false,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "1144f4a74e09082be5d5f44f3c158ec9",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": -1,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

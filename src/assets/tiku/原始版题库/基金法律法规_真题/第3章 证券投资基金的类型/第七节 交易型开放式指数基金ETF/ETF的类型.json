@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4708639,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": "\n我国首只ETF是上证50ETF。<br />\n",
+      "content": "\n我国首只ETF是( )。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "\n我国首只ETF是( )。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1799695,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 3,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "84",
+      "expanddoExamNum": 3841,
+      "favNum": 28,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4708639,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 3841,
+        "examFavNum": 28,
+        "examRightNum": 3249,
+        "examErrorNum": 592,
+        "maxWrongAnswer": "B,D",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "上证50ETF",
+        "上证100ETF",
+        "行业指数ETF",
+        "综合指数ETF"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "cfc118d18cf397783e846004c08b38b6",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59204,
+          "knowLedgeName": "ETF的类型",
+          "chapterName": "第7节",
+          "parentChapterName": "第3章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P90-93"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4708639,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年基金从业资格考试《基金法律法规》真题汇编(二)",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "cfc118d18cf397783e846004c08b38b6",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

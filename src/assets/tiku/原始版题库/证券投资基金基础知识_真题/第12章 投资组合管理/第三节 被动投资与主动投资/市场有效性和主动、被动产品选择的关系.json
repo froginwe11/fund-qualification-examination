@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 5960202,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "一个信息有效的市场，投资工具的价格应当能够反映所有可获得的信息，包括基本面信息、价格与风险信息等。在股票市场，一家前景良好的公司应当有较高的股价，因为股价反映了未来分配给股东的利润；反之，一家前景不好的公司应当有较低的股价。如果市场有效，那么对股票的研究就没有多大意义，因为市场价格已经反映了所有信息；如果市场无效，那么股价相对于公司的前景有可能被高估或者低估，投资管理人如能发现定价的偏离，就有可能从中获得超额收益。其他市场，如债券、衍生品也是如此。&nbsp;",
+      "content": "关于市场有效性，以下表述正确的有( )。<br />\nⅠ市场有效性理论不仅适用于股票市场，也适用于债券市场<br />\nⅡ市场越有效，主动投资策略所发挥作用就越大<br />\nⅢ.如果市场无效，投资人通过发现定价偏离可以获得超额收益",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "关于市场有效性，以下表述正确的有( )。<br />\nⅠ市场有效性理论不仅适用于股票市场，也适用于债券市场<br />\nⅡ市场越有效，主动投资策略所发挥作用就越大<br />\nⅢ.如果市场无效，投资人通过发现定价偏离可以获得超额收益",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1906468,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "52",
+      "expanddoExamNum": 974,
+      "favNum": 0,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5960202,
+        "lastDate": 1624112350,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 974,
+        "examFavNum": 0,
+        "examRightNum": 511,
+        "examErrorNum": 463,
+        "maxWrongAnswer": "",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅱ、Ⅲ",
+        "Ⅰ、Ⅲ",
+        "Ⅰ、Ⅱ",
+        "Ⅰ、Ⅱ、Ⅲ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "05ac31836d22fe98aaec8cf53cd6e843",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57474,
+          "knowLedgeName": "市场有效性和主动、被动产品选择的关系",
+          "chapterName": "第3节",
+          "parentChapterName": "第12章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P384-P386"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5960202,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2021,
+      "source": "2021年6月基金从业考试《证券投资基金基础知识》真题（考生回忆版）",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "05ac31836d22fe98aaec8cf53cd6e843",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

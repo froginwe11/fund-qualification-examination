@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4661629,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "选项D说法错误：技术分析方法长期以来一直是投资决策的辅助工具。",
+      "content": "下列关于技术分析的说法错误的是（）。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "下列关于技术分析的说法错误的是（）。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846059,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 11,
+      "myDiscussCount": 0,
+      "errorCount": 1,
+      "expandPercent": "56",
+      "expanddoExamNum": 25877,
+      "favNum": 21,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4661629,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 25877,
+        "examFavNum": 21,
+        "examRightNum": 14639,
+        "examErrorNum": 11239,
+        "maxWrongAnswer": "C,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "技术分析是通过股价、成交量、涨跌幅、图形走势等研究市场行为",
+        "技术分析是指通过研究金融市场的历史信息来预测股票价格的趋势。",
+        "技术分析只关心证券市场本身的变化，而不考虑基本面因素",
+        "技术分析方法长期以来一直是投资决策的核心工具"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "5f2dd849ad0e6989792f0fdc822a74d2",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59184,
+          "knowLedgeName": "技术分析的内容",
+          "chapterName": "第3节",
+          "parentChapterName": "第7章",
+          "yaoQiu": 1,
+          "yaoQiuName": "熟悉",
+          "yaoQiuLevel": 2,
+          "pageNum": "P242-P244"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4661629,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "5f2dd849ad0e6989792f0fdc822a74d2",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

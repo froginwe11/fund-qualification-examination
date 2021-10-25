@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 5851042,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "很多基金代销机构也结合客户和自身业务特点开展了投资者教育工作。在营业网点设立了投资者教育园地，制作了投资者教育手册，免费发放。部分机构还注重在开户、交易、清算、产品营销等经营环节向投资者提示风险，介绍相关知识，保存相对完善的客户资料。",
+      "content": "在基金代销机构营业网点应做好投资者教育的园区的建设工作，其内容应包括（）。<br />\nⅠ 对本公司基本情况的介绍<br />\nⅡ 对本公司业务有关的金融知识、法律法规的问答、介绍<br />\nⅢ 备有相关的法律法规材料供投资者查阅<br />\nⅣ 业务咨询",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "在基金代销机构营业网点应做好投资者教育的园区的建设工作，其内容应包括（）。<br />\nⅠ 对本公司基本情况的介绍<br />\nⅡ 对本公司业务有关的金融知识、法律法规的问答、介绍<br />\nⅢ 备有相关的法律法规材料供投资者查阅<br />\nⅣ 业务咨询",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1898607,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 0,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "88",
+      "expanddoExamNum": 13206,
+      "favNum": 0,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5851042,
+        "lastDate": 1616861604,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 13206,
+        "examFavNum": 0,
+        "examRightNum": 11695,
+        "examErrorNum": 1511,
+        "maxWrongAnswer": "",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅰ、Ⅱ、Ⅲ",
+        "Ⅱ、Ⅲ、Ⅳ",
+        "Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+        "Ⅰ、Ⅲ、Ⅳ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "42b916afe347164c54a02065fd30602b",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59288,
+          "knowLedgeName": "投资者教育工作的形式",
+          "chapterName": "第3节",
+          "parentChapterName": "第23章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P204-205"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5851042,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2021,
+      "source": "2021年3月基金从业考试《基金法律法规》真题（考生回忆版）",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "42b916afe347164c54a02065fd30602b",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

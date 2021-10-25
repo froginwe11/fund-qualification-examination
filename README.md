@@ -1,10 +1,24 @@
-# 基金从业资格考试
+# tiku
 
-# 初衷
+## Project setup
+```
+npm install
+```
 
-[《我要考个基金从业资格证拉！！！》](https://www.bilibili.com/read/cv12765098)
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-# 大纲
+### Compiles and minifies for production
+```
+npm run build
+```
 
-- [科目一大纲](./科目一大纲.md)
-- [科目二大纲](./科目二大纲.md)
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

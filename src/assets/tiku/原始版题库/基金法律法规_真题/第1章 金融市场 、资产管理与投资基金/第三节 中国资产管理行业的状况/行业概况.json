@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4713380,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": "（教材上册P14）随着我国居民个人财富的不断积累，金融监管机构对资产管理的金融管制逐渐放松，投资者对理财的需求不断上升，银行、证券、保险等各类金融机构纷纷开展资产管理业务，除公募基金、私募基金、信托计划外，还提供券商资管、保险资管、期货资管、银行理财等各种资产管理产品。分处不同监督体系的各类机构广泛参与、各类资产管理业务交叉融合所形成的既相似又不同的混业局面，是我国目前资产管理的现状。",
+      "content": "我国资产管理行业的现状为(       )。<br />\nⅠ．各类机构广泛参与，各类资产管理业务交叉融合<br />\nⅡ．各类机构分业经营，保险公司、期货公司等机构不得开展资产管理业务<br />\nⅢ．处于同一监管体系下<br />\nⅣ．分处于不同监管体系下<br />\nV．处于混业经营局面<br />\nⅥ．处于分业经营局面",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "我国资产管理行业的现状为(       )。<br />\nⅠ．各类机构广泛参与，各类资产管理业务交叉融合<br />\nⅡ．各类机构分业经营，保险公司、期货公司等机构不得开展资产管理业务<br />\nⅢ．处于同一监管体系下<br />\nⅣ．分处于不同监管体系下<br />\nV．处于混业经营局面<br />\nⅥ．处于分业经营局面",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1800577,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        1,
+        1,
+        10
+      ],
+      "discussCount": 10,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "50",
+      "expanddoExamNum": 14670,
+      "favNum": 716,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4713380,
+        "lastDate": 1524214318,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 14670,
+        "examFavNum": 716,
+        "examRightNum": 7425,
+        "examErrorNum": 7180,
+        "maxWrongAnswer": "B,D",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅰ、Ⅳ、V",
+        "Ⅰ、Ⅲ、V",
+        "Ⅱ、Ⅲ、V",
+        "Ⅱ、Ⅳ、Ⅵ"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "cb9a7b9028d9a6903e658de10d60124f",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59169,
+          "knowLedgeName": "行业概况",
+          "chapterName": "第3节",
+          "parentChapterName": "第1章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P14-15"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4713380,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2017,
+      "source": "2017年基金从业资格考试《基金法律法规》真题汇编六",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "cb9a7b9028d9a6903e658de10d60124f",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

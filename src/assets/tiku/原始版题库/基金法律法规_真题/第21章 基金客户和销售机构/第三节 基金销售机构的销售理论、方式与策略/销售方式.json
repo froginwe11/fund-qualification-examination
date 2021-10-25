@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4365382,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "基金销售机构在基金销售活动中，不得有下列行为：①在签订销售协议或销售基金的活动中进行商业贿赂；②以排挤竞争对手为目的，压低基金的收费水平；③未经公告擅自变更向基金投资人的收费项目或收费标准，或通过先收后返、财务处理等方式变相降低收费标准；④采取抽奖、回扣或者送实物、保险、基金份额等方式销售基金；⑤其他违反法律、行政法规的规定，扰乱行业竞争秩序的行为。 <br />\n",
+      "content": "在开发机构大客户时，有违基金销售机构人员行为规范的是（　　）。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "在开发机构大客户时，有违基金销售机构人员行为规范的是（　　）。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1772801,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 0,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        4,
+        0,
+        1
+      ],
+      "discussCount": 2,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "94",
+      "expanddoExamNum": 4041,
+      "favNum": 95,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4365382,
+        "lastDate": 1505548723,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 4041,
+        "examFavNum": 95,
+        "examRightNum": 3809,
+        "examErrorNum": 753,
+        "maxWrongAnswer": "A,D",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "承诺基金经理定期不定期与其保持密切联系",
+        "承诺通过财务处理降低收费标准",
+        "承诺及时地将公开的信息与其沟通",
+        "承诺定期提供详尽的投资策略报告 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": null,
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "67728c05105fc18e4e297102ef2143f0",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57342,
+          "knowLedgeName": "销售方式",
+          "chapterName": "第3节",
+          "parentChapterName": "第21章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P150-152"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4365382,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年4月基金从业资格考试《基金法律法规》真题及答案",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "67728c05105fc18e4e297102ef2143f0",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

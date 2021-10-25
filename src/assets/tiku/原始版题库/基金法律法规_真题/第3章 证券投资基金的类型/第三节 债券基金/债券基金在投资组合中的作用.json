@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 5170255,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "D项说法错误，与其他类型基金相比，货币市场基金具有风险低、流动性好的特点，是厌恶风险、对资产流动性和安全性要求较高的投资者进行短期投资和现金管理的理想工具，或是暂时存放现金的理想场所。",
+      "content": "关于债券基金在投资组合中的作用，以下表述错误的是（   ）。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "关于债券基金在投资组合中的作用，以下表述错误的是（   ）。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1838643,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        2,
+        11
+      ],
+      "discussCount": 16,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "64",
+      "expanddoExamNum": 31526,
+      "favNum": 52,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 5170255,
+        "lastDate": 1558120806,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 31526,
+        "examFavNum": 52,
+        "examRightNum": 20292,
+        "examErrorNum": 11208,
+        "maxWrongAnswer": "B,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "债券基金与股票基金进行适当的组合投资通常可以分散风险",
+        "债券基金通常被认为是收益和风险适中的投资工具",
+        "债券基金的波动性相对股票基金通常较小",
+        "债券基金适合厌恶风险、对资产流动性和安全性要求较高的投资者 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "2eddd1bf244fdf9f10fadb9284f2e869",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59274,
+          "knowLedgeName": "债券基金在投资组合中的作用",
+          "chapterName": "第3节",
+          "parentChapterName": "第3章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P73"
+        }
+      ],
+      "scoreRules": {
+        "examId": 5170255,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2019,
+      "source": "2019年上半年基金从业《基金法律法规》真题汇编",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "2eddd1bf244fdf9f10fadb9284f2e869",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

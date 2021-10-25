@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4662329,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "金融债券是由银行和其他金融机构经特别批准而发行的债券。",
+      "content": "下列关于债券的说法中，错误的是（）。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "下列关于债券的说法中，错误的是（）。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846060,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        0
+      ],
+      "discussCount": 1,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "86",
+      "expanddoExamNum": 21180,
+      "favNum": 1,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4662329,
+        "lastDate": 0,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 21180,
+        "examFavNum": 1,
+        "examRightNum": 18425,
+        "examErrorNum": 2753,
+        "maxWrongAnswer": "A,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "债券市场是债券发行与买卖交易的场所",
+        "债券因有固定的票面利率和期限，其市场价格相对于股票价格而言比较稳定",
+        "政府债券是政府为筹集资金而向投资者出具并承诺在一定时期支付利息和偿还本金的债务凭证",
+        "公司债券是由银行和其他金融机构经特别批准而发行的债券"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "c2d997723d34ab3c1dea711a4cba0670",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57416,
+          "knowLedgeName": "债券市场各参与方的责任以及发行人类型",
+          "chapterName": "第1节",
+          "parentChapterName": "第8章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P256"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4662329,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "c2d997723d34ab3c1dea711a4cba0670",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

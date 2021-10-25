@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4713464,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": "业务操作手册是在基金管理人确定相关业务基础上，对业务的性质、种类以及相关的管理规定和操作流程及要求进行明确的说明，是业务人员上岗操作的指南。<br />",
+      "content": "\n基金管理人对业务的性质、种类以及相关管理规定和操作流程及要求进行明确说明的内控文件是()。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "\n基金管理人对业务的性质、种类以及相关管理规定和操作流程及要求进行明确说明的内控文件是()。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1800577,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        2,
+        2
+      ],
+      "discussCount": 6,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "63",
+      "expanddoExamNum": 7304,
+      "favNum": 289,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4713464,
+        "lastDate": 1524214318,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 7304,
+        "examFavNum": 289,
+        "examRightNum": 4673,
+        "examErrorNum": 2597,
+        "maxWrongAnswer": "C,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "业务操作手册",
+        "基本管理制度",
+        "内部控制大纲",
+        "总办会决议"
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "a00a4b7f924dd7b160581e16335b1534",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59230,
+          "knowLedgeName": "业务操作手册",
+          "chapterName": "第3节",
+          "parentChapterName": "第25章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P244"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4713464,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2017,
+      "source": "2017年基金从业资格考试《基金法律法规》真题汇编六",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "a00a4b7f924dd7b160581e16335b1534",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4886164,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": "混合基金是指同时投资于股票、债券和货币市场等工具，且不属于股票基金、债券基金和基金中基金中任何一类的基金。<br />\n知识点：掌握股票型基金与混合型基金的风险管理方法；",
+      "content": "混合基金同时投资于( )和货币市场等工具。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "混合基金同时投资于( )和货币市场等工具。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846066,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        1
+      ],
+      "discussCount": 1,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "93",
+      "expanddoExamNum": 17410,
+      "favNum": 37,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4886164,
+        "lastDate": 1531411068,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 17410,
+        "examFavNum": 37,
+        "examRightNum": 16249,
+        "examErrorNum": 1146,
+        "maxWrongAnswer": "D,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "股票、债券",
+        "股票、期货",
+        "债券、基金",
+        "股票、基金 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "61a006a922b224ee8ded5b3aa3ccfe58",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57500,
+          "knowLedgeName": "混合型基金的风险管理方法",
+          "chapterName": "第3节",
+          "parentChapterName": "第14章",
+          "yaoQiu": 3,
+          "yaoQiuName": "掌握",
+          "yaoQiuLevel": 3,
+          "pageNum": "P443"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4886164,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "61a006a922b224ee8ded5b3aa3ccfe58",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

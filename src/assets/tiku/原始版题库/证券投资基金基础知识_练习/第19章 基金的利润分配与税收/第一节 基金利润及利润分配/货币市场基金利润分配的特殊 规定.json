@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4886441,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "Ⅰ项说法错误，Ⅱ项说法正确，根据《货币市场基金监督管理办法》第10条规定：“对于每日按照面值进行报价的货币市场基金，可以在基金合同中将收益分配的方式约定为红利再投资，并应当每曰进行收益分配。”<br />\nⅢ、Ⅳ项说法正确，根据《货币市场基金监督管理办法》第15条规定：“当日申购的基金份额自下一个交易日起享有基金的分配权益，当日赎回的基金份额自下一个交易日起不享有基金的分配权益，但中国证监会认定的特殊货币市场基金品种除外。”<br />\n知识点：理解基金分红的不同方式和货币市场基金利润分配的特殊规定：",
+      "content": "下列关于《货币市场基金监督管理办法》的规定，说法正确的是( )。 <br />\nⅠ 对于每日按照面值进行报价的货币市场基金，可以在基金合同中将收益分配的方式约定为红利再投资，并应当每周进行收益分配 <br />\nⅡ 对于每日按照面值进行报价的货币市场基金，可以在基金合同中将收益分配的方式约定为红利再投资，并应当每日进行收益分配 <br />\nⅢ 当日申购的基金份额自下一个交易日起享有基金的分配权益 <br />\nⅣ 当日赎回的基金份额自下一个交易日起不享有基金的分配权益",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "下列关于《货币市场基金监督管理办法》的规定，说法正确的是( )。 <br />\nⅠ 对于每日按照面值进行报价的货币市场基金，可以在基金合同中将收益分配的方式约定为红利再投资，并应当每周进行收益分配 <br />\nⅡ 对于每日按照面值进行报价的货币市场基金，可以在基金合同中将收益分配的方式约定为红利再投资，并应当每日进行收益分配 <br />\nⅢ 当日申购的基金份额自下一个交易日起享有基金的分配权益 <br />\nⅣ 当日赎回的基金份额自下一个交易日起不享有基金的分配权益",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846070,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        1
+      ],
+      "discussCount": 4,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "69",
+      "expanddoExamNum": 16821,
+      "favNum": 199,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4886441,
+        "lastDate": 1531413880,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 16821,
+        "examFavNum": 199,
+        "examRightNum": 11702,
+        "examErrorNum": 5100,
+        "maxWrongAnswer": "D,B",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "Ⅰ",
+        "Ⅰ、Ⅱ",
+        "Ⅱ、Ⅲ、Ⅳ",
+        "Ⅰ、Ⅱ、Ⅲ、Ⅳ "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "12557e46fc0da2cdd05ceb1933acf794",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57548,
+          "knowLedgeName": "货币市场基金利润分配的特殊 规定",
+          "chapterName": "第1节",
+          "parentChapterName": "第19章",
+          "yaoQiu": 2,
+          "yaoQiuName": "理解",
+          "yaoQiuLevel": 2,
+          "pageNum": "P105"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4886441,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "12557e46fc0da2cdd05ceb1933acf794",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

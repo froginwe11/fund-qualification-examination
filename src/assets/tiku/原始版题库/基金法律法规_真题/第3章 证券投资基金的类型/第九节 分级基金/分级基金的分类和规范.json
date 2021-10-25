@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1188,
+      "className": "基金法律法规",
+      "examId": 4365362,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "D",
+      "score": 0,
+      "analysis": "A项，按运作方式可以将分级基金分为封闭式分级基金与开放式分级基金；B项，按投资对象可以将分级基金分为股票型分级基金、债券型分级基金、QDII分级基金等；C项，按募集方式可以将分级基金分为合并募集和分开募集两种类型。 <br />\n",
+      "content": "根据子份额之间（　　）的不同，可以将分级基金分为简单融资型分级基金与复杂型分级基金。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "根据子份额之间（　　）的不同，可以将分级基金分为简单融资型分级基金与复杂型分级基金。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1772801,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        1,
+        1,
+        33
+      ],
+      "discussCount": 25,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "38",
+      "expanddoExamNum": 6099,
+      "favNum": 591,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4365362,
+        "lastDate": 1505548483,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 6099,
+        "examFavNum": 591,
+        "examRightNum": 2338,
+        "examErrorNum": 4756,
+        "maxWrongAnswer": "A,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "运作方式",
+        "投资对象",
+        "募集方式",
+        "收益分配 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": null,
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "3e50fd8258fced56e9256da2c9707348",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59123,
+          "knowLedgeName": "分级基金的分类和规范",
+          "chapterName": "第9节",
+          "parentChapterName": "第3章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P101-102"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4365362,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5003,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": true,
+      "officialYear": 2016,
+      "source": "2016年4月基金从业资格考试《基金法律法规》真题及答案",
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "3e50fd8258fced56e9256da2c9707348",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

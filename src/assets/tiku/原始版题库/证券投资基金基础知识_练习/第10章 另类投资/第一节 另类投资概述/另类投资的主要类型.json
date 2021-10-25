@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4716749,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "C",
+      "score": 0,
+      "analysis": "另类资产包括自然资源、大宗商品、房地产、基础设施、外汇和知识产权等。 <br />\n",
+      "content": "另类投资中的另类资产不包括()。 ",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "另类投资中的另类资产不包括()。 ",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846062,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        1,
+        3
+      ],
+      "discussCount": 12,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "86",
+      "expanddoExamNum": 32111,
+      "favNum": 214,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4716749,
+        "lastDate": 1520702198,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 1,
+        "analysisNum": 0,
+        "examDoNum": 32111,
+        "examFavNum": 214,
+        "examRightNum": 27688,
+        "examErrorNum": 4389,
+        "maxWrongAnswer": "D,A",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "房地产",
+        "大宗商品",
+        "债券",
+        "外汇 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "312d3f4730ca571155e3f3c2332e5a41",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57439,
+          "knowLedgeName": "另类投资的主要类型",
+          "chapterName": "第1节",
+          "parentChapterName": "第10章",
+          "yaoQiu": 3,
+          "yaoQiuName": "掌握",
+          "yaoQiuLevel": 3,
+          "pageNum": "P324-P326"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4716749,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "312d3f4730ca571155e3f3c2332e5a41",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

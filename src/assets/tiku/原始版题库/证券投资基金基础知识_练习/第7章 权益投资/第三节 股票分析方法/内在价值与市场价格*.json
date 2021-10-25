@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4716684,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "B",
+      "score": 0,
+      "analysis": "股票价格由其内在价值决定,并且受到供求关系的影响。<br />",
+      "content": "股票的价格是由()所决定的。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "股票的价格是由()所决定的。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846059,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        1,
+        1,
+        4
+      ],
+      "discussCount": 8,
+      "myDiscussCount": 0,
+      "errorCount": 1,
+      "expandPercent": "81",
+      "expanddoExamNum": 36664,
+      "favNum": 340,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4716684,
+        "lastDate": 1520700124,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 36664,
+        "examFavNum": 340,
+        "examRightNum": 29870,
+        "examErrorNum": 6747,
+        "maxWrongAnswer": "A,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "市场价格",
+        "内在价值",
+        "账面价值",
+        "预期价格 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "f313d8a8dc330f571ff75bf22b822fcf",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 57783,
+          "knowLedgeName": "内在价值与市场价格*",
+          "chapterName": "第3节",
+          "parentChapterName": "第7章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P241"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4716684,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "f313d8a8dc330f571ff75bf22b822fcf",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}

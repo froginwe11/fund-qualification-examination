@@ -1,0 +1,133 @@
+{
+  "examDtoList": [
+    {
+      "classId": 1189,
+      "className": "证券投资基金基础知识",
+      "examId": 4886134,
+      "paperInfo": null,
+      "isRepeatTf": null,
+      "answer": "A",
+      "score": 0,
+      "analysis": "风险的测度是风险管理的基础。<br />\n知识点：了解事前与事后风险测量的区别；",
+      "content": "风险管理的基础是( )。",
+      "questionArr": {
+        "returnMaterial": "",
+        "returnQuestion": "风险管理的基础是( )。",
+        "returnOption": null
+      },
+      "examType": 1,
+      "examTypeName": "单选题",
+      "selectNum": 4,
+      "linkExam": 0,
+      "orderId": 1,
+      "rulesId": 1846066,
+      "diggUp": 0,
+      "diggDown": 0,
+      "weight": 0,
+      "deNums": 3,
+      "userDeNum": 0,
+      "userDeNumStats": [
+        0,
+        0,
+        2
+      ],
+      "discussCount": 5,
+      "myDiscussCount": 0,
+      "errorCount": 0,
+      "expandPercent": "78",
+      "expanddoExamNum": 19050,
+      "favNum": 98,
+      "isFavorites": false,
+      "examNewStats": {
+        "examId": 4886134,
+        "lastDate": 1531411042,
+        "recId": 0,
+        "oldExamId": 0,
+        "noteNum": 0,
+        "analysisNum": 0,
+        "examDoNum": 19050,
+        "examFavNum": 98,
+        "examRightNum": 15016,
+        "examErrorNum": 4009,
+        "maxWrongAnswer": "B,C",
+        "isCloseError": false
+      },
+      "material": null,
+      "optionList": [
+        "风险的测度",
+        "风险的认识",
+        "风险的规避",
+        "风险的解决 "
+      ],
+      "videoAnalysis": "",
+      "videoAnalysisId": "",
+      "videoCoverUrl": "//img2.233.com/m/vip/img/vedio.jpg",
+      "userAnswer": "",
+      "userScore": "0",
+      "rightOrWrong": 0,
+      "questionCount": 1,
+      "md5": "c0c8f384b9606ab9bab080c79b39e4a2",
+      "isComputerApp": false,
+      "subQuestion": [],
+      "teacher": null,
+      "knowledge": [
+        {
+          "knowLedgeId": 59235,
+          "knowLedgeName": "常用的基础风险指标",
+          "chapterName": "第2节",
+          "parentChapterName": "第14章",
+          "yaoQiu": 4,
+          "yaoQiuName": "了解",
+          "yaoQiuLevel": 1,
+          "pageNum": "P428-P432"
+        }
+      ],
+      "scoreRules": {
+        "examId": 4886134,
+        "ruleScore": 1.0,
+        "itemScore": 0.0,
+        "errorScore": 0.0,
+        "scoreRulesType": 1
+      },
+      "tikuId": 5004,
+      "isCloseError": false,
+      "isFree": true,
+      "isOfficial": false,
+      "officialYear": 0,
+      "source": null,
+      "historyAssessmentExamScoreV2Mongo": null,
+      "hasKnow": -1
+    }
+  ],
+  "md5": "c0c8f384b9606ab9bab080c79b39e4a2",
+  "examTime": 0,
+  "mode": 1,
+  "class": 0,
+  "objectId": 0,
+  "pageIndex": 1,
+  "count": 1,
+  "extractType": 0,
+  "isKnowledge": false,
+  "examType": null,
+  "status": 0,
+  "startOrderId": 0,
+  "fistFreeOrderId": 0,
+  "listPageMap": [
+    {
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "rootClassName": null,
+  "examName": null,
+  "className": null,
+  "useTime": 0,
+  "myClassId": 0,
+  "dcourseId": 0,
+  "zuheMyClassId": 0,
+  "teacherId": 0,
+  "year": 0,
+  "historyTitle": null,
+  "parentId": 0,
+  "productId": 0
+}
