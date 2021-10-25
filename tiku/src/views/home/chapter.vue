@@ -1,6 +1,6 @@
 <template>
   <el-card shadow="always">
-    <el-tabs tab-position="top" :stretch="false">
+    <el-tabs tab-position="top" :stretch="false" @tab-click="tabClick">
       <el-tab-pane
         v-for="(chapter, name) in chapters"
         :key="name"
@@ -57,13 +57,22 @@ const props = {
 };
 
 export default defineComponent({
-  setup() {
+  setup(_, { emit }) {
     const store = useStore();
     const router = useRouter();
     const chapters = computed(() => store.state.chapters);
+    const tabClick = (tab) => {
+      if (typeof tab === "string") {
+        emit("tabClick", tab);
+        return;
+      }
+      emit("tabClick", tab.props.label);
+    };
+    tabClick(Object.keys(chapters.value)[0]);
     return {
       props,
       chapters,
+      tabClick,
       doExercise(name, chapter_id, chapter) {
         router.push({ name: "practice", query: { name, chapter, chapter_id } });
       },
@@ -94,7 +103,7 @@ export default defineComponent({
 
 
 <style scoped>
-/deep/ .el-tree-node__content {
+:deep(.el-tree-node__content) {
   height: 65px;
 }
 .custom-tree-node {

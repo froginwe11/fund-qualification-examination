@@ -48,13 +48,13 @@
           v-text="data.examNewStats.maxWrongAnswer"
         ></el-col>
       </el-row>
-      <el-row class="question-row" type="flex">
+      <el-row class="question-row" type="flex" v-if="data.knowledge[0]">
         <el-col :span="3" class="info">知识点：</el-col>
         <el-col :span="21" class="content">{{
           `《${data.className}》 ${data.knowledge[0].parentChapterName} > ${data.knowledge[0].chapterName} > ${data.knowledge[0].knowLedgeName} (${data.knowledge[0].yaoQiuName})`
         }}</el-col>
       </el-row>
-      <el-row class="question-row" type="flex">
+      <el-row class="question-row" type="flex" v-if="data.knowledge[0]">
         <el-col :span="3" class="info">教材页码：</el-col>
         <el-col :span="21" class="content">{{
           data.knowledge[0].pageNum
@@ -126,7 +126,7 @@ export default defineComponent({
 
 
 <style scoped>
-/deep/ .el-radio-group {
+:deep(.el-radio-group) {
   display: flex;
   flex-direction: column;
 }
@@ -141,26 +141,26 @@ export default defineComponent({
   font-weight: bold;
   margin-right: 3px;
 }
-.answer /deep/ .el-radio__label {
+.answer :deep(.el-radio__label) {
   color: #67c23a !important;
   font-weight: bold !important;
 }
-.chosen /deep/ .el-radio__input.is-checked + .el-radio__label {
+.chosen :deep(.el-radio__input.is-checked) + .el-radio__label {
   color: #f56c6c;
   font-weight: bold !important;
 }
 
-.chosen.answer /deep/ .el-radio__input.is-checked /deep/ .el-radio__inner {
+.chosen.answer :deep(.el-radio__input.is-checked) :deep(.el-radio__inner) {
   border-color: #67c23a;
   background: #67c23a;
 }
 
-.el-radio /deep/ .el-radio__input.is-checked /deep/ .el-radio__inner {
+.el-radio :deep(.el-radio__input.is-checked) :deep(.el-radio__inner) {
   border-color: #f56c6c;
   background: #f56c6c;
 }
 
-/deep/ .el-radio__label {
+:deep(.el-radio__label) {
   overflow: hidden;
   text-overflow: ellipsis;
   -webkit-line-clamp: 3;

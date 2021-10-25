@@ -11,7 +11,7 @@
       <el-tag type="success" size="mini">TIPS</el-tag>
     </div>
     <span class="tips">
-      键盘快捷键:
+      快捷键:
       <el-tag type="info" size="mini" style="margin-right: 3px"
         >&gt; 下一题</el-tag
       >

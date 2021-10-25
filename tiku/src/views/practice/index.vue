@@ -49,6 +49,7 @@ export default defineComponent({
     const count = ref(0);
     const chapter_id = route.query.chapter_id;
     const name = route.query.name;
+    const examIds = route.query.examIds;
 
     try {
       if (chapter_id) {
@@ -57,6 +58,11 @@ export default defineComponent({
         exam.value = data.examDtoList;
         count.value = data.count;
         states.value = Array.from({ length: data.count }, () => null);
+      }
+      if (examIds) {
+        exam.value = store.getters.getExamList(name, examIds);
+        count.value = exam.value.length;
+        states.value = Array.from({ length: count.value }, () => null);
       }
     } catch (err) {
       ElMessage.error("Oops, 人的一生就是要不断经历重新出发的过程");

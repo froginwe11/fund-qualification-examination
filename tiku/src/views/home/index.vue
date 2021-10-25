@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <Options style="margin-bottom: 20px; min-height: 300px" />
+    <Options style="margin-bottom: 20px" :title="title" />
     <div class="bottom">
-      <Chapter style="width: 80%" />
+      <Chapter style="width: 80%" @tabClick="tabClick" />
       <Donate id="donate" />
     </div>
   </div>
@@ -12,11 +12,19 @@
 import Chapter from "./chapter.vue";
 import Options from "./options.vue";
 import Donate from "./donate.vue";
-import { defineComponent } from "vue";
+import { defineComponent, ref } from "vue";
 
 export default defineComponent({
   components: { Chapter, Options, Donate },
-  setup() {},
+  setup() {
+    const title = ref("");
+    return {
+      title,
+      tabClick(label) {
+        title.value = label;
+      },
+    };
+  },
 });
 </script>
 

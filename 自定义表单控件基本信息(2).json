@@ -1,0 +1,69 @@
+mongo
+{
+    id:"afsdfasdf"
+    formOption:{
+        title:"",
+        desc:"",
+        submitTxt:"",
+    },
+    controls:[{}]
+}
+
+{
+	"id": 1,
+	"name": "控件名称",
+	"placeholder": "提示信息",
+	"type": "T", //控件类型（T 文本框、 R 单选框、 C 多选框、 D 下拉组件、 M 多级选择框）
+	"selectType": "S", // S 单选  M 多选（下拉，多级选择组件字段）
+	"defaultValue": {
+		//控件默认值
+	},
+	"required": false, //是否是必填
+	"validate": 1, //校验类型 1 手机号校验  2 身份证校验  3 邮箱校验  4 数字校验  5 范围校验（预留）  6 自定义（预留）
+	"sort": 1, //显示顺序
+	"options":[
+		//单选、多选、下拉
+		{
+			"label": "选项一",
+			"value": "选项一的值",
+			"sort": 1, //显示顺序
+			"select": false //是否默认选中
+		},
+		{
+			"label": "选项二",
+			"value": "选项二的值",
+			"sort": 2, //显示顺序
+			"select": false //是否默认选中
+		}
+	],
+	"multilevel": [
+		//树形结构的选项，只有多级下拉框有
+		{
+			"label": "云南",
+			"value": "5300",
+			"sort": 1, //显示顺序
+			"select": false, //是否默认选中
+			"child": [
+				{
+					"label": "昆明",
+					"value": "5301",
+					"sort": 1, //显示顺序
+					"select": false, //是否默认选中
+					"child": null
+				},
+				{
+					"label": "保山",
+					"value": "5302",
+					"sort": 2, //显示顺序
+					"select": false, //是否默认选中
+					"child": null
+				}
+			]
+		}
+	],
+	"styleTempId": 1001, //样式模板ID
+	"operation": {
+		//操作，预留
+	}
+}
+
