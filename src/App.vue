@@ -1,6 +1,6 @@
 <template>
   <div id="main">
-    <router-view style="width: 80%"></router-view>
+    <router-view style="width: 90%"></router-view>
   </div>
 </template>
 

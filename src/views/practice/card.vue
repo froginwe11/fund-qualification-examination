@@ -1,9 +1,21 @@
 <template>
   <el-card shadow="always">
     <template #header>
-      <span>计分板</span> <span id="score" v-text="score"></span>
+      <span style="margin: 0; text-align: center; display: block">计分板</span>
     </template>
     <div>
+      <div class="info">
+        得分率：
+        <span style="font-weight: bold">
+          <span class="correct">{{ score }}</span>
+          <span> / </span>
+          <span style="color: #909399">{{ answered }}</span>
+          <span> ≈ </span>
+          <span :class="rate >= 60 ? 'correct' : 'wrong'"
+            >{{ rate }} %</span
+          ></span
+        >
+      </div>
       <el-tag
         v-for="(state, idx) in data"
         :key="idx"
@@ -34,8 +46,20 @@ export default defineComponent({
     const score = computed(() => {
       return props.data.filter((v) => v === true).length;
     });
+    const answered = computed(() => {
+      return props.data.filter((v) => v !== null).length;
+    });
+    const rate = computed(() => {
+      const r = ((score.value / answered.value) * 100).toFixed(0);
+      if (isNaN(r)) {
+        return 0;
+      }
+      return r;
+    });
     return {
       score,
+      answered,
+      rate,
       tagType(state, idx) {
         switch (state) {
           case null:
@@ -58,14 +82,17 @@ export default defineComponent({
 </script>
 
 <style scoped>
+.info {
+  text-align: center;
+}
 .tag {
   margin: 5px 5px 0 0;
   cursor: pointer;
-  width: 34px;
+  width: 40px;
   text-align: center;
 }
-#score {
-  font-weight: bold;
+.info > span {
   font-size: 15px;
+  margin-right: 10px;
 }
 </style>

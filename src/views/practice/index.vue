@@ -1,17 +1,26 @@
 <template>
-  <div
+  <el-row
     class="container"
     tabindex="-1"
+    :gutter="20"
     v-focus
     @keyup.right.capture="move(1)"
     @keyup.left.capture="move(-1)"
     @keyup.enter.capture="toggleAnswerState()"
   >
-    <div class="left">
+    <el-col class="left" :lg="18" :sm="24" style="margin-bottom: 20px">
+      <el-alert
+        title="键盘快捷键：→ 下一题 ← 上一题 Enter 显示答案"
+        type="info"
+        center
+        style="margin-bottom: 10px"
+      />
+      <Options style="margin-bottom: 10px" />
       <Question
         @changeState="changeState"
         :ref="setRef"
         v-for="(q, no) in exam"
+        class="question"
         :class="{ 'inactive-qestion': no !== current }"
         :key="q.examId"
         :no="no + 1"
@@ -30,12 +39,11 @@
           >下一题 <i class="el-icon-arrow-right"
         /></el-button>
       </el-button-group>
-    </div>
-    <div class="right">
-      <Options style="margin-bottom: 20px" />
+    </el-col>
+    <el-col class="right" :lg="6" :sm="24">
       <Card :data="states" @cellSelected="cellSelected" :current="current" />
-    </div>
-  </div>
+    </el-col>
+  </el-row>
 </template>
 
 <script>
@@ -122,26 +130,20 @@ export default defineComponent({
 
 <style scoped>
 .container {
-  margin-top: 40px;
-  display: flex;
-  justify-content: center;
+  margin-top: 20px;
 }
 
-.left {
-  width: 70%;
-  margin-right: 20px;
-}
-.right {
-  width: 30%;
-}
 .inactive-qestion {
   display: none;
 }
+
 :focus {
   outline: unset !important;
 }
+
 .btn-group {
   margin-top: 15px;
+  margin-bottom: 5px;
   width: 100%;
   display: flex;
   justify-content: center;

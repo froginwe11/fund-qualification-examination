@@ -171,18 +171,6 @@ export default defineComponent({
   margin-top: 30px;
 }
 
-.correct {
-  color: #67c23a !important;
-  font-size: 15px;
-  font-weight: bold;
-}
-
-.wrong {
-  color: #f56c6c !important;
-  font-size: 15px;
-  font-weight: bold;
-}
-
 .ainfo {
   color: #999;
   font-size: 14px;
@@ -214,5 +202,23 @@ export default defineComponent({
 }
 :focus {
   outline: unset !important;
+}
+
+.el-radio-group > :deep(.el-radio) {
+  margin-bottom: 10px;
+}
+</style>
+
+<style>
+.correct {
+  color: #67c23a !important;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.wrong {
+  color: #f56c6c !important;
+  font-size: 15px;
+  font-weight: bold;
 }
 </style>

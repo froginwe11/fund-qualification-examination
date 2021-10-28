@@ -1,11 +1,13 @@
 <template>
-  <div class="container">
-    <Options style="margin-bottom: 20px" :title="title" />
-    <div class="bottom">
-      <Chapter style="width: 80%" @tabClick="tabClick" />
+  <el-row class="container" :gutter="20">
+    <el-col :lg="18" :md="24">
+      <Options style="margin-bottom: 20px" :title="title" />
+      <Chapter style="margin-bottom: 20px" @tabClick="tabClick" />
+    </el-col>
+    <el-col :lg="6" :md="24">
       <Donate id="donate" />
-    </div>
-  </div>
+    </el-col>
+  </el-row>
 </template>
 
 <script>
@@ -30,19 +32,10 @@ export default defineComponent({
 
 <style scoped>
 .container {
-  display: flex;
-  margin: 20px 10px;
-  flex-direction: column;
-}
-
-.container .bottom {
-  display: flex;
+  margin: 10px 0;
 }
 
 #donate {
-  width: 20%;
-  margin-left: 20px;
-  max-height: 500px;
   position: sticky;
   top: 0;
 }
